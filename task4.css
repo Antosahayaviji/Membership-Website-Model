@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-image: url("ma.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C663DB;
+    font-size: 19px;
+}
+ul li{
+    float: right;
+}
+ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: #111111;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-shadow: 2px 2px 2px black;
+    line-height: 50px;
+    font-size: 50px;
+}
+
+
+.one{
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+    border-style:ridge;
+    border-color: #A02303;
+    border-width: 10px;
+    background-color: pink;
+    box-shadow: 15px 20px #ffff1a;
+}
+    
+
+.two{
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+    border-style:groove;
+    border-color: #A02303;
+    border-width: 3px;
+    background-image: url("edu.jpg");
+    float: right;
+}
+
+.three{
+    margin: auto;
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+    border-style:dashed;
+    border-color: #7105F5;
+    background-color: rgb(153, 255, 153);
+    border-width: 3px;
+    text-align: center;
+    font-size: 18px;
+    color: #F505A9;
+    font-variant: small-caps;
+    text-decoration: none;
+}
+.four{
+    margin: auto;
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+    border-style:dashed;
+    border-color: #7105F5;
+    background-color: #ff80d5;
+    border-width: 3px;
+    text-align: center;
+    font-size: 18px;
+
+    font-variant: small-caps;
+    text-decoration: none;
+    float: left;
+}
