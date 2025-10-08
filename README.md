@@ -1,3 +1,5 @@
+# MEMBERSHIP WEBSITE
+
 🙋‍♂️ About Membership-Website-Model
 
 This website provides exclusive content, communities, or services to users who register and create an account 📋.
