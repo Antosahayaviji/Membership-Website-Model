@@ -30,4 +30,4 @@ A simple intro about this website is given.
 Further, this website is developed with horizontal navigation with the insights of home, sig in and sign up.
 Payement details 💳 and free subscription details are also provide in this webpage.
 
-🌐 You can refer this sample mebership website with this link: 🔗 https://neocities.org/site_files/text_editor?filename=Viji%2FBasics%2Ftask4.html
+🌐 You can refer this sample mebership website with this link: 🔗 https://latha16.neocities.org/Viji/Basics/task4
